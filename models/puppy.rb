@@ -1,4 +1,4 @@
-class puppy
+class Puppy
 attr_accessor :breed, :name, :age
 
   def initialize(attributes)
