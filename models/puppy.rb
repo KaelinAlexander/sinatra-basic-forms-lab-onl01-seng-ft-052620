@@ -5,7 +5,7 @@ attr_accessor :breed, :name, :age
     @name = name:
     @breed = breed:
     @age = age:
-   end
+ end
 
 
 end
